@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="title">Here are my widgets:</string>
+    <string name="button">button</string>
+    <string name="checkbox_text">Check this out!</string>
+    <string name="switch_text">Switch on/off!</string>
+    <string name="hint">Type your answer here</string>
+    <string name="description">Country Flag:</string>
+</resources>
